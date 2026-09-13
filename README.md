@@ -16,24 +16,25 @@ The platform allows users to discover technologies across **Frontend, Backend, D
 * **JSON**
 * **Vite**
 
-##  Key Features:
+## Key Features
 
 ### 1. Interactive Stack Builder
 
-Users can select technologies from different categories, including **Frontend, Backend, Database, and Tools**, to create a personalized development stack.
+Build a personalized technology stack by selecting technologies from multiple categories, including **Frontend, Backend, Database, and Development Tools**. Users can easily customize their stack according to their project requirements.
 
-### 2. Side-by-Side Technology Exploration
+### 2. Technology Exploration & Comparison
 
-Each technology is presented through an informative card containing details such as **proficiency level, developer rating, category, and a brief description**, making it easier to explore and compare technologies.
+Explore different technologies through informative cards that provide essential details such as **category, proficiency level, developer rating, and a brief overview**. This helps users understand and compare technologies more effectively.
 
-### 3. Dynamic Stack Management:
+### 3. Dynamic Stack Management
 
-Selected technologies are displayed dynamically in the sidebar. Users can:
+Manage selected technologies through an interactive sidebar with real-time updates. Users can:
 
 * Add technologies to their stack
 * Remove individual technologies
-* Clear the entire stack using the **Remove All** option
-* Manage their selections in real time
+* Clear all selected technologies with the **Remove All** option
+* View and manage their stack dynamically
+
 
 ##  Short Questions & Answers:
 
