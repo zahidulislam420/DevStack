@@ -1,4 +1,4 @@
-# 🚀 Dev Stack
+# 🚀 DevStack Builder Website
 
 **Dev Stack** is an interactive platform designed to help developers explore, evaluate, and build the right technology stack for their software projects.
 
