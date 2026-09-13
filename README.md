@@ -1,8 +1,9 @@
 # 🚀 Dev Stack
 
-**Dev Stack** is an interactive web platform that helps developers explore, compare, and build their ideal technology stack for software projects.
+**Dev Stack** is an interactive platform designed to help developers explore, evaluate, and build the right technology stack for their software projects.
 
-Users can browse technologies across **Frontend, Backend, Database, and Tools** categories, compare their features, and create a customized development stack based on their project requirements.
+The platform allows users to discover technologies across **Frontend, Backend, Database, and Development Tools** categories, compare their key features, and create a customized technology stack based on their project requirements. It provides a simple and intuitive way to understand different technologies and make informed decisions when planning a project.
+
 
 ##  Technologies Used:
 
