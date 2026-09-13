@@ -92,6 +92,9 @@ The parent passes a **callback function** as a prop to the child. The child can 
 </button>
 ```
 
-##  Project Purpose:
+## Project Purpose
 
-The main goal of **Dev Stack** is to provide developers with a simple and interactive way to explore different technologies and assemble a suitable technology stack for their next project.
+The primary goal of **Dev Stack** is to provide developers with a simple, interactive, and user-friendly platform for exploring modern technologies and building a suitable technology stack for their projects.
+
+By organizing technologies into different categories and providing relevant information for each option, Dev Stack helps developers **evaluate, compare, and select the right technologies** based on their project requirements and development needs.
+
